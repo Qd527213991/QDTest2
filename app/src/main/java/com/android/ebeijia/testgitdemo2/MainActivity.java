@@ -14,5 +14,7 @@ public class MainActivity extends AppCompatActivity {
         String s2="第二行代码";
 
         String s3="第三行代码";
+
+        String s4="第四行代码";
     }
 }
